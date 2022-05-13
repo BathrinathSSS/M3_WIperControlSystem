@@ -79,7 +79,7 @@ Application is researched from various resources like from Google, YouTube and f
 
 
 ## Opportunities :
-1. Fail Safe measures can be implemented 
+1.Fail Safe measures can be implemented 
 
 2.Less maintenance and more reliability 
 
